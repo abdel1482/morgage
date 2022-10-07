@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app)./
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).\
 The main idea behind this project is to start from a [crash course](https://github.com/safak/youtube2022/tree/react-mui) and complete it into a very useful web app for people to use as they see fit.
 
 ## Available Scripts
